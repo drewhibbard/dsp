@@ -1,0 +1,16 @@
+Question 5
+
+Probability that Elvis was an identical twin, given that Elvis was a twin.
+P(Identical) | twin = (P(twin) | identical * P(identical)) / P(twin)
+P(twin) = 1/125 + 1/300 = 12/1500 + 5/1500 = 17/1500 = .01133
+P(Identical) = 1/300 = .00333
+P(Identical) | twin = 1 * .00333 / .01133 = 
+
+29.39% probability that Elvis was an identical twin given that he was a twin.
+
+Question 6
+
+Frequentist statistics is narrow in the definition of probability.  Frequentists state that 
+probability can only be assigned to a repeatable event, and that probability is the long-term frequency of that event.  So in frequentist statistics, you can say that the probability of flipping a fair coin is 0.5, but you can't say that the probability of the Vikings winning the Super Bowl this season is 0.1, because it is not an event that can be repeated infinitely many times to determine frequency of occurrence.  
+
+Therefore, Frequentists don't think in terms of uncertainty, while Bayesians do.  A frequentist would provide only the most likely point value of a statistic, such as the mean of a population, while a Bayesian would be comfortable providing confidence intervals that the true statistic is contained in some range.
